@@ -8,6 +8,6 @@ Chat application in java: Project for Software engineering lab
 Volley for networking
 <br/> Firebase as message storage
 <br/>
-screencast(Still incomplete): https://drive.google.com/open?id=0B7ua27EMIDVfclB0UzdyNGI5SUE
+screencast: https://drive.google.com/open?id=0B7ua27EMIDVfRG1yNEltS2pmM28
 
 follow and contact if you like :-)
